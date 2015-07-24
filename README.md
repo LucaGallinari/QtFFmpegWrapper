@@ -24,10 +24,11 @@ You can open the project by using:
 ### LICENSE
 	
 The following files are under the BSD LICENSE as explained in Roggen's project:
-	- ffmpeg.h
-	- mainwindow.cpp
-	- mainwindow.h
-	- QVideoEncoder.cpp
-	- QVideoDecoder.cpp
-	- QVideoEncoder.h
-	- QVideoDecoder.h
+
+	ffmpeg.h
+	mainwindow.cpp
+	mainwindow.h
+	QVideoEncoder.cpp
+	QVideoDecoder.cpp
+	QVideoEncoder.h
+	QVideoDecoder.h
