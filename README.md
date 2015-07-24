@@ -6,13 +6,13 @@ https://code.google.com/p/qtffmpegwrapper/
 
 I did this porting because I needed this wrapper for an university project.
 
-### CHANGES
+### HOW TO OPEN
 
-	You can open the project by using:
-	- Qt Creator, open the .pro file
-	- VS2013 (or after), by opening the .sln file or by opening/importing 
-	  the .pro file with the Visual Studio Qt Plugin that you can find 
-	  easily online
+You can open the project by using:
+- Qt Creator, open the .pro file
+- VS2013 (or after), by opening the .sln file or by opening/importing 
+  the .pro file with the Visual Studio Qt Plugin that you can find 
+  easily online
 
 ### CHANGES
 
@@ -23,7 +23,7 @@ I did this porting because I needed this wrapper for an university project.
 	
 ### LICENSE
 	
-	The following files are under the BSD LICENSE as explained in Roggen's project:
+The following files are under the BSD LICENSE as explained in Roggen's project:
 	- ffmpeg.h
 	- mainwindow.cpp
 	- mainwindow.h
